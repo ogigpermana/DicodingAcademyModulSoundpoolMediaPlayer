@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sound Pool and Media Player</string>
+    <string name="play_label">Play</string>
+    <string name="stop_label">Stop</string>
+    <string name="soundpool_label">Test Soundpool</string>
+    <string name="mediaplayer_label">Test Media Player</string>
+</resources>
